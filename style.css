@@ -1,0 +1,23 @@
+a
+{
+     color: yellow;
+}
+div
+{
+     background-color: black;
+     width: 1000px;
+     height:650px
+     
+}
+h1
+{
+     color: yellow;
+}
+img
+{
+width:  300px;
+height: 300px;
+border: solid;
+border-radius: 30px;
+border-color: white;
+}
